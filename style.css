@@ -1,0 +1,17 @@
+td,th{
+    color: red;
+    border: 2px solid black;
+}
+.hello{
+    color: red;
+    border: 2px solid black;
+    width: 20%;
+    background-color: yellow;
+    margin-left: 50px;
+    float: right;
+    padding-left: 30px;
+}
+
+#g{
+    color: slateblue;
+}
